@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **B2B and B2C apps that improve people’s daily lives**, and **web platforms for business professionals**.
 
-- 📫 How to reach me: [tjavaney@gmail.com](mailto\:tjavaney@gmail.com) | [LinkedIn](https://linkedin.com/in/javaney-thomas-930284183) | [GitHub](https://github.com/Javaney-Thomas)
+- 📫 How to reach me: [tjavaney@gmail.com](mailto\:tjavaney@gmail.com) | [LinkedIn](https://linkedin.com/in/javaney-thomas-930284183)
 
 <!--
 **Javaney-Thomas/Javaney-Thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
