@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Javaney Thomas — Full Stack Dev | Future Tech Entrepreneur
+### 👋 Hi, I'm Javaney Thomas — Software Engineer | Future Tech Entrepreneur
 
 - 🔭 I’m currently working on **Azura**, a revamped Amazon-style e-commerce website, and **Jobby**, an AI job search mobile and desktop PWA that matches employers to their dream candidates in minutes.
 
