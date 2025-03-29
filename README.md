@@ -4,7 +4,8 @@
 
 
 ### 🙋🏾‍♂️ About Me
-![Visitor Badge](https://komarev.com/ghpvc/?username=Javaney-Thomas&style=for-the-badge)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-7.2k-blue?style=for-the-badge&logo=github)
+
 - 🔭 I’m currently working on **Azura**, a revamped Amazon-style e-commerce website, and **Jobby**, an AI job search mobile and desktop PWA that matches employers to their dream candidates in minutes.
 
 - 👨🏾‍💻 I’m looking to collaborate on **B2B and B2C apps that improve people’s daily lives**, and **web platforms for business professionals**.
