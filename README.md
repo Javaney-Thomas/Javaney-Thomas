@@ -7,7 +7,7 @@
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-7.2k-blue?style=for-the-badge&logo=github)
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/3o6Mb6qXK0OxwjSr7y/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/3o6Mb6qXK0OxwjSr7y/giphy.gif" width="400"/>
 </p>
 
 
