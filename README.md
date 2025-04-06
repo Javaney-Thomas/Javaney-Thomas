@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Javaney Thomas — Software Engineer | Future Tech Entrepreneur
+### 👋 Hi, I'm the CyberBeast, Javaney Thomas — Software Engineer | Future Tech Entrepreneur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/javaney-thomas-930284183) [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo)](https://medium.com/@javaneyt)
 [![Portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo)](https://www.raijutech.net/) 
 
